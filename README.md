@@ -1,4 +1,4 @@
-# Arduino_Timer <br/>
+# Timer <br/>
 
 This is a university assignment, I figured it was a suitable piece of my work that highlghts my interest in low-level and embedded software programming <br/>
 The aim of the project was to create a functional timer on a ATMEL328 microcontroller. <br/> <br/>
